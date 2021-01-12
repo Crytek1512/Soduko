@@ -2,6 +2,8 @@
 
 Soduko Solver Using C
 
+## Author: Abhishek Dobliyal
+
 ## About
 
 - About the Game: This is a logic based,combinatorial number placemnet puzzle.The objective of the game is to
